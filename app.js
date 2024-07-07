@@ -57,7 +57,7 @@ function condicionesIniciales() {
     intentos = 1;
 }
 
-function reinciarJuego () {
+function reiniciarJuego () {
     //limpiar caja
     limpiarCaja();
     //indicar numero de intervalos del 1 al 10
